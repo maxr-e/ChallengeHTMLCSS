@@ -5,5 +5,4 @@ Approaches I took included renaming elements semantically in .hmtl and related .
 
 ![Website of the image](./assets/images/websiteimage.png)
 
-Link to deployed application
-ads
+[Link to deployed application](https://maxr-e.github.io/ChallengeHTMLCSS/)
