@@ -3,6 +3,7 @@ The purpose of this challenge was to increase searchability of the website, cons
 
 Approaches I took included renaming elements semantically in .hmtl and related .css elements, then checking format on website did not change. I also renamed the title and ordered elements in proper priority.
 
-Screenshot of .html
+![Website of the image](./assets/images/websiteimage.png)
 
 Link to deployed application
+ads
